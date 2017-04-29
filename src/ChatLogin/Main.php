@@ -36,7 +36,7 @@ class Main extends PluginBase {
 	//Other Const
 	
 	/** @var string PREFIX Plugin prefix */
-	const PREFIX = "&9[ChatLogin] ";
+	const PREFIX = "&b[&eCosmicMiner&b] ";
 	
 	/** @var array $confirm_users User awaiting confirmation */
 	public $confirm_users = array();
